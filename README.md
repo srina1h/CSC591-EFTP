@@ -28,4 +28,4 @@ Here different files are created on a single main branch. The files are explaine
 
 ## Profiling result files:
 
-The nsight profiler result files are stored here: 
+The nsight systems profiling result files are stored here: https://github.com/srina1h/CSC591-EFTP/tree/main/profiling_results
